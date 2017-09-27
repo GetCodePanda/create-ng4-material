@@ -1,0 +1,8 @@
+.example-card {
+    width: 400px;
+  }
+  
+  .example-header-image {
+    background-image: url('https://pbs.twimg.com/profile_images/766483334276841473/Ipu0rJig.jpg');
+    background-size: cover;
+  }
