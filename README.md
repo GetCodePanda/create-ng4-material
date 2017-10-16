@@ -14,7 +14,7 @@
     
 ## Installation Process:
   Note : please install [Angular Cli](https://cli.angular.io/) version 1.4.2 globally .<br/>
-  npm i -g npm i [create-ng4-material](https://www.npmjs.com/package/create-ng4-material).<br/>
+  npm i -g  [create-ng4-material](https://www.npmjs.com/package/create-ng4-material).<br/>
   then , create-ng4-material <name-of-the-project-directory-name> (eg. create-ng4-material ng-test-material)<br/>
   cd ng-ng-test-material <br/>
   ng serve --open or --o (every angular cli commands will works )<br/>
