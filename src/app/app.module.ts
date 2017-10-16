@@ -2,7 +2,7 @@ import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 
 import { AppComponent } from './app.component';
-import { MdCardModule, MdButtonModule } from '@angular/material';
+import { MatCardModule, MatCardModule } from '@angular/material';
 
 @NgModule({
   declarations: [
@@ -10,8 +10,8 @@ import { MdCardModule, MdButtonModule } from '@angular/material';
   ],
   imports: [
     BrowserModule,
-    MdCardModule,
-    MdButtonModule
+    MatCardModule,
+    MatButtonModule
   ],
   providers: [],
   bootstrap: [AppComponent]
